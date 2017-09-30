@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Lista</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="valor_del_lado">Valor del lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="campo_vacio">Todos los campos deben estar llenos</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">Volumenes</string>
+
+    <string-array name="opciones">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+    </string-array>
+
+
+    <string name="rectangulo">Rectangulo</string>
+    <string-array name="areas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+    </string-array>
+
+
+    <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="resultado">Resultado :</string>
+    <string name="base">Base</string>
+    <string name="valor_de_la_base">Valor de la base</string>
+    <string name="valor_de_la_altura">Valor de la altura</string>
+    <string name="resultado_area">Resultado del area:</string>
+    <string name="valor_del_radio">Valor del radio</string>
+    <string name="resultado_volumen">El Volumen es:</string>
+    <string name="altura">Altura</string>
+    <string name="valor_altura">Valor de la altura</string>
+    <string name="valor_radio">Valor del radio</string>
+    <string-array name="volumenes">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+    </string-array>
+</resources>

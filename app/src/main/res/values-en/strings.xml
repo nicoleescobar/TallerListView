@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">List</string>
+    <string name="altura">Height</string>
+    <string name="areas">Areas</string>
+    <string name="base">Base</string>
+    <string name="borrar">Clean</string>
+    <string name="calcular">Calculate</string>
+    <string name="campo_vacio">All fields has to be fill</string>
+    <string name="cilindro">Cylinder</string>
+    <string name="cuadrado">Square</string>
+    <string name="esfera">Sphere</string>
+    <string name="rectangulo">Rectangle</string>
+    <string name="resultado">Result</string>
+    <string name="resultado_area">Result  of area</string>
+    <string name="resultado_volumen">Result of volume</string>
+    <string name="valor_altura">Height</string>
+    <string name="valor_de_la_altura">Height</string>
+    <string name="valor_de_la_base">Base</string>
+    <string name="valor_del_lado">Side</string>
+    <string name="valor_del_radio">Radio</string>
+    <string name="valor_radio">Radio</string>
+    <string name="volumenes">Volumenes</string>
+</resources>
